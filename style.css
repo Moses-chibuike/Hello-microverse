@@ -1,0 +1,17 @@
+body {
+  background: black;
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  width: 100%;
+  margin-top: 0;
+  background: purple;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  padding: 2rem 0;
+}
