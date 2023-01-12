@@ -4,10 +4,27 @@
 
 > This is a project to display Hello Microverse.
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 
-- HTML, CSS
-- Git
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
+  </ul>
+</details>
+
+
+### Key Features <a name="key-features"></a>
+
+
+- **[Demonstrate Use of GitHub flow rules]**
+- **[Use gitignore files]**
+- **[Set up a linter for HTML and CSS]**
 
 ## Getting Started
 
@@ -39,6 +56,16 @@ To run the project do the following:
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[add more CSS styles]**
+- [ ] **[Add more HTML elements]**
+
 
 ## Show your support
 
